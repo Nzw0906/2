@@ -1,5 +1,5 @@
-## Harvard Middle School
-欢迎来到一个新的界面
+# Harvard Middle School
+### 欢迎来到一个新的界面
 
 
 [七下《自主学习手册》基础版答案.pdf](https://github.com/Nzw0906/2/files/8572146/default.pdf)
@@ -52,7 +52,7 @@
 
 
 
-
+**如果下载的文件是PPT形式会有打不开的情况，请将原后缀PPTX更改文件后缀为PPT即可查看**
 
 
 ------------------------------------------------**网站归属于[Harvard Middle School](https://nzw0906.github.io/1/)**-----------------------------------------
