@@ -47,7 +47,7 @@
 [7B同步辅导课件第29-32版（Unit 4）.pptx](https://github.com/Nzw0906/2/files/8572218/7B.29-32.Unit.4.pptx)
 
 
-
+[7B同步辅导(二)答案第1-32版（Unit 5-8）.docx](https://github.com/Nzw0906/2/files/8583396/7B.1-32.Unit.5-8.docx)
 
 
 
